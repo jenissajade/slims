@@ -1,0 +1,50 @@
+Item is shelved by a Library of Congress:
+Item is shelved by a Library of Congress classification number
+Agency Code:
+Agency/Institution/Library
+Sample Entry:
+852  0#$aSTII-DOST
+Location
+Sublocation or collection  
+Sample Entry:
+852  0#$aSTII-DOST$bFilipiniana Section 
+Address
+Address of the sgency/institution holding the item
+Sample Entry:
+852  0#$aSTII-DOST$bFilipiniana Section$eDOST Complex, Bicutan, Taguig City 
+Accession Number
+Internal item number (accession) 
+Sample Entry:
+876  ## $a 9-12345
+Circulation number 
+Circulation number (barcode Number) 
+Sample Entry:
+876 ##$a9-12345,$bSTI-01-3213
+Price
+Cost/Price
+Sample Entry:
+876 ##$a9-12345,$bSTI-01-3212, $c1500.00
+Date of Acquisition
+Date acquired
+Sample Entry:
+876 ##$a9-12345,$bSTI-01-3212, $c1500.00$d2015/04/23
+Acquisition Mode
+Mode of acquisition
+Sample Entry:
+876 ##$a9-12345,$bSTI-01-3212, $c1500.00$d2015/04/23$ePurchase
+Donor/Source
+Use restrictions 
+Sample Entry:
+876 ##$a9-12345,$bSTI-01-3212, $c1500.00$d2015/04/23$ePurchase$hFor Room Use Only
+Status
+Item status
+Sample Entry:
+876 33$j Inventoried 
+Temporary location 
+Copy Number
+Sample Entry:
+876 ##$a9-12345,$bSTI-01-3212, $c1500.00$d2015/04/23$ePurchase$hFor Room Use Only$t c.2
+Nonpublic Note 
+
+
+
